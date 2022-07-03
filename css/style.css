@@ -855,7 +855,7 @@ form label {
 }
 @media screen and (max-width: 480px) {
   .fh5co-cover, .fh5co-bg {
-    background: center center fixed;
+    background: center relative;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
